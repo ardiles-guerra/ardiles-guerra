@@ -1,12 +1,6 @@
 ## ARDILES GUERRA OLIVEIRA
 
-ENGENHARIA DE SOFTWARE
-
-## DADOS PESSOAIS
-
-E-mail:
-
-[ardiles.guerra@gmail.com](mailto:ardiles.guerra@gmail.com)
+[Email: ardiles.guerra@gmail.com](mailto:ardiles.guerra@gmail.com)
 
 [LinkedIn: https://www.linkedin.com/in/ardiles-guerra/](https://www.linkedin.com/in/ardiles-guerra/)
 
