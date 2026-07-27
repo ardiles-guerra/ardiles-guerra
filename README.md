@@ -4,8 +4,6 @@
 
 [LinkedIn: https://www.linkedin.com/in/ardiles-guerra/](https://www.linkedin.com/in/ardiles-guerra/)
 
-[GitHub: https://github.com/ardiles-guerra](https://github.com/ardiles-guerra)
-
 ## PERFIL PROFISSIONAL
 
 Profissional com vasta experiência em desenvolvimento de software e arquitetura de soluções, com mais de 20 anos de carreira em sistemas de informação. Formado em Ciência da Computação, com MBA em Arquitetura de Soluções e técnico em Processamento de Dados.
